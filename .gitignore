@@ -5,4 +5,10 @@ db.json
 node_modules/
 public/
 .deploy*/
-.idea/
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
